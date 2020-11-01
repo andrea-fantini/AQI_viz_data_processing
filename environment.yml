@@ -1,0 +1,3 @@
+name: AQI_viz_data_processing
+dependencies:
+- python=3.8
